@@ -16,8 +16,8 @@ public class Utility {
 	  File Dest=new File("C:\\seleniumjar\\Screenshot\\screenshot\\1.png");
 	  FileHandler.copy(src, Dest);
   }
-  public void implicitlywait()
-  {
-	  //driver.
-  }
+//  public void implicitlywait()
+//  {
+//	  driver.ma
+//  }
 }
