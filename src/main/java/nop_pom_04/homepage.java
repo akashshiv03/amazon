@@ -24,7 +24,7 @@ public class homepage
 	}
 	public void enter_email()
 	{
-		email.sendKeys(" ");
+		email.sendKeys("shivramakash96@gmail.com");
 	}
 	public void clickon_continuebutton()
 	{
@@ -32,7 +32,7 @@ public class homepage
 	}
 	public void enter_password()
 	{
-		password.sendKeys("");
+		password.sendKeys("Akash@123");
 	}
 	public void clickOn_signInSubmit()
 	{

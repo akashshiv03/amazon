@@ -18,6 +18,6 @@ public class Utility {
   }
   public void implicitlywait()
   {
-	  driver.
+	  //driver.
   }
 }
