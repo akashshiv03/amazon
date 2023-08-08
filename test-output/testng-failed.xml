@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="nop_test_05.Amz_TC_500">
+        <methods>
+          <include name="login"/>
+          <include name="loginto_Amazon"/>
+          <include name="openbrowser"/>
+        </methods>
+      </class> <!-- nop_test_05.Amz_TC_500 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -14,7 +14,7 @@ public class homepage
 		@FindBy(id="ap_password")private WebElement password;
 		@FindBy(id="signInSubmit")private WebElement signInSubmit;
 		
-	public void homepage(WebDriver driver)
+	public  homepage(WebDriver driver)
 	{
 		PageFactory.initElements(driver, this);
 	}
